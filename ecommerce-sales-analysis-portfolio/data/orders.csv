@@ -1,0 +1,19 @@
+Order_ID,Order_Date,Region,City,Category,Sub_Category,Sales,Quantity,Discount_Pct,Profit,Payment_Method
+1001,2025-01-05,North,Delhi,Electronics,Laptop,68000,1,5,12000,Card
+1002,2025-01-12,West,Mumbai,Furniture,Chair,15000,2,10,2500,UPI
+1003,2025-01-18,South,Bengaluru,Electronics,Phone,42000,2,8,7600,Card
+1004,2025-02-02,East,Kolkata,Office Supplies,Printer,18000,1,12,2200,NetBanking
+1005,2025-02-10,North,Delhi,Furniture,Desk,22000,1,15,2600,UPI
+1006,2025-02-21,West,Pune,Electronics,Headphones,9000,3,5,2100,Card
+1007,2025-03-03,South,Chennai,Office Supplies,Paper,6000,10,0,1800,COD
+1008,2025-03-14,West,Mumbai,Electronics,Tablet,27000,1,10,4300,Card
+1009,2025-03-22,East,Kolkata,Furniture,Sofa,35000,1,20,2800,UPI
+1010,2025-04-06,North,Jaipur,Electronics,Monitor,16000,2,7,3500,Card
+1011,2025-04-17,South,Hyderabad,Furniture,Storage Cabinet,19000,1,18,1700,NetBanking
+1012,2025-04-25,West,Ahmedabad,Office Supplies,Whiteboard,11000,2,5,2400,UPI
+1013,2025-05-08,East,Bhubaneswar,Electronics,Phone,25000,1,6,5200,Card
+1014,2025-05-19,North,Lucknow,Office Supplies,Printer,21000,1,10,3100,NetBanking
+1015,2025-05-28,South,Bengaluru,Furniture,Office Chair,17000,2,12,2600,UPI
+1016,2025-06-04,West,Mumbai,Electronics,Laptop,72000,1,4,15000,Card
+1017,2025-06-16,East,Patna,Office Supplies,Paper,7000,12,0,2100,COD
+1018,2025-06-27,North,Chandigarh,Electronics,Phone,30000,1,9,5400,Card
