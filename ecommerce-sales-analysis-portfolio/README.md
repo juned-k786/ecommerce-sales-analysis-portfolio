@@ -10,6 +10,7 @@ It is designed as a beginner-friendly but professional-looking Data Analyst port
 
 An e-commerce business wants to understand:
 
+
 - Which product categories generate the most sales
 - Which regions perform best and worst
 - How monthly sales are changing over time
